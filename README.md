@@ -2,6 +2,8 @@
    Vusic | The music destination you want.
 </h1>
 
+netlify - https://vusic.netlify.app
+
 <div align="center">
 
 ![Home Page](https://drive.google.com/uc?id=1ayxhKGDHtysZPMqti6k4ZY072nm3I3MZ)
