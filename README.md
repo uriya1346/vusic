@@ -21,14 +21,3 @@ netlify - https://vusic.netlify.app
     * ###### [material-ui/icons](https://www.npmjs.com/package/@material-ui/icons)
     * ###### [context API](https://reactjs.org/docs/context.html)
     * ###### [scss](https://sass-lang.com/)
-   
-
-## Attribution
-    
-[Icons](www.flaticon.com) made by Freepikfrom 
-
-[Music](https://ncs.io/music) by NCS
-
-    Please make sure you fork the repository
-"# vusic" 
-"# vusic" 
