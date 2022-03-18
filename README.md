@@ -2,7 +2,7 @@
    Vusic | The music destination you want.
 </h1>
 
-netlify - https://vusic.netlify.app
+<div align="center">netlify - https://vusic.netlify.app</div>
 
 <div align="center">
 
